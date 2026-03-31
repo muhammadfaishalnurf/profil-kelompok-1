@@ -22,9 +22,9 @@ function Home() {
         />
 
         <ProfileCard
-          name="Evan"
-          path="/evan"
-          image="https://via.placeholder.com/150"
+          name="Evan Swardana Adinata"
+          path="/evan-swardana-adinata"
+          image="evan-ftprofil.JPG"
         />
 
         <ProfileCard
