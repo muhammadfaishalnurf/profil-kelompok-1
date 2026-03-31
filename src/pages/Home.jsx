@@ -28,9 +28,9 @@ function Home() {
         />
 
         <ProfileCard
-          name="Tiara"
-          path="/tiara"
-          image="https://via.placeholder.com/150"
+          name="Tiara Nurfadilah"
+          path="/tiara-Nurfadilah"
+          image="tiara-ftprofil.jpg"
         />
 
       </div>

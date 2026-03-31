@@ -5,7 +5,7 @@ import Loader from "./components/Loader";
 import Home from "./pages/Home";
 import Faishal from "./pages/Faishal";
 import Evan from "./pages/Evan";
-// import Tiara from "./pages/Tiara";
+import Tiara from "./pages/Tiara";
 import Footer from "./components/Footer";
 
 function App() {
@@ -28,8 +28,10 @@ function App() {
           <Route path="/" element={<Home />} />
 
           <Route path="/muhammad-faishal-nur-firdaus" element={<Faishal />} />
+
           <Route path="/evan-swardana-adinata" element={<Evan />} />
-          {/*<Route path="/tiara" element={<Tiara />} /> */}
+         
+          <Route path="/tiara-nurfadilah" element={<Tiara />} /> 
         </Routes>
       
         <Footer />

@@ -43,7 +43,7 @@ function Navbar() {
           </Link>
 
           <Link
-            to="/evan"
+            to="/evan-swardana-adinata"
             className="relative text-gray-700 dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400 transition"
           >
             Evan
@@ -51,7 +51,7 @@ function Navbar() {
           </Link>
 
           <Link
-            to="/tiara"
+            to="/tiara-nurfadilah"
             className="relative text-gray-700 dark:text-gray-200 hover:text-blue-500 dark:hover:text-blue-400 transition"
           >
             Tiara
